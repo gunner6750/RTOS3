@@ -1,0 +1,9 @@
+main.c:63:6:LedBlinky	8	static
+main.c:66:6:LedBlinky1	8	static
+main.c:69:6:display7SEG	8	static
+main.c:176:5:main	8	static
+main.c:236:6:SystemClock_Config	72	static
+main.c:272:13:MX_TIM2_Init	32	static
+main.c:317:13:MX_GPIO_Init	32	static
+main.c:351:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:362:6:Error_Handler	4	static,ignoring_inline_asm
